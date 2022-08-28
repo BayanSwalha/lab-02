@@ -8,7 +8,7 @@ void main() {
     } else {
       int c = color.length;
       print(
-          "sorry this $color color conatians this number of character $c its not start with a or b");
+          "sorry this colors conatians this number of character $c its not start with a or b");
     }
   }
   ;
